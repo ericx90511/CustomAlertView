@@ -1,2 +1,5 @@
 # CustomAlertView
-CustomAlertView class written in Swift
+A simple customed alertview for cancel and submit. It can be used to replace UIAlertview or add more
+features to current code.
+
+![BackgroundImage](https://raw.githubusercontent.com/ericx511/CustomAlertView/master/alertview.gif)
